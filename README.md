@@ -1,0 +1,1 @@
+Its an single page search engine with this we can search course and its appropriate details will be displayed in this I used cosine similarity to compare the description of courses and front end is built through streamlit
